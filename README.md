@@ -55,7 +55,7 @@ Berdasarkan studi lapangan langsung pada pedagang toko kelontong dan warung maka
 ### 2. Instalasi Dependensi
 ```bash
 # Clone repositori
-git clone https://github.com/aduhkepencett/stokpintar-umkm.git
+git clone https://github.com/mahdiwafy/stokpintar-umkm.git
 cd stokpintar-umkm
 
 # Install pustaka yang dibutuhkan
