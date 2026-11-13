@@ -3,7 +3,8 @@
 > **Kompetisi:** LOGICODIX 2026 — HIMTI Universitas Negeri Surabaya (UNESA)  
 > **Kategori:** Web App  
 > **Subtema 03:** Local MSME & Creative Economy (Digitalisasi Bisnis UMKM)  
-> **Nama Tim:** **ADUH KEPENCETT**
+> **Nama Tim:** **ADUH KEPENCETT**  
+> **Live Web Demo:** [https://stokpintar.mahdiwafy.my.id](https://stokpintar.mahdiwafy.my.id)
 
 ---
 
